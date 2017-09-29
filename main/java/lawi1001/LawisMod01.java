@@ -17,7 +17,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 public class LawisMod01 {
     public static final String MOD_ID = "lawismod01";
-    public static final String MOD_NAME = "Lawi's Mod 01 Recycle Recipes";
+    public static final String MOD_NAME = "LM01 Recycle Recipes";
     public static final String MOD_VERSION = "1.0";
     public static Logger logger = LogManager.getLogger("lawismod01");
 
