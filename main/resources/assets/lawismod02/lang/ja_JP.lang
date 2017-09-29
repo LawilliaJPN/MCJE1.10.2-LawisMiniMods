@@ -1,0 +1,12 @@
+
+item.movement_ip.name=鉄のツルハシ(移動)
+item.movement_dp.name=ダイヤのツルハシ(移動)
+
+item.mining_ip.name=鉄のツルハシ(採掘)
+item.mining_dp.name=ダイヤのツルハシ(採掘)
+
+item.underwater_ip.name=鉄のツルハシ(水中)
+item.underwater_dp.name=ダイヤのツルハシ(水中)
+
+item.combat_ip.name=鉄のツルハシ(戦闘)
+item.combat_dp.name=ダイヤのツルハシ(戦闘)

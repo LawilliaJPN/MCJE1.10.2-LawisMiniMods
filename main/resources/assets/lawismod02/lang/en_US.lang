@@ -1,0 +1,12 @@
+
+item.movement_ip.name=Iron Pickaxe(Movement)
+item.movement_dp.name=Diamond Pickaxe(Movement)
+
+item.mining_ip.name=Iron Pickaxe(Mining)
+item.mining_dp.name=Diamond Pickaxe(Mining)
+
+item.underwater_ip.name=Iron Pickaxe(Underwater)
+item.underwater_dp.name=Diamond Pickaxe(Underwater)
+
+item.combat_ip.name=Iron Pickaxe(Combat)
+item.combat_dp.name=Diamond Pickaxe(Combat)
