@@ -26,7 +26,7 @@ Lawi's Mini Mods(Minecraft Java Edition ver.1.10.2)
 ### No.02 "Specialized Pickaxes"  
   
 特殊な機能を持つツルハシを4種類追加するmodです。  
-mod別ページは準備中です。  
+<https://github.com/LawilliaJPN/MCJE1.10.2-LawisMiniMods/tree/minimod02sp>  
   
 ### No.03 "Time Signal Mod"  
   
