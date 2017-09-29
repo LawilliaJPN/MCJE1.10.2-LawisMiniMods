@@ -1,0 +1,14 @@
+[
+ {
+  "modid": "lawismod00",
+  "name": "Lawi's Mod 00",
+  "description": "",
+  "version": "1.10.2-1.0",
+  "mcversion": "1.10.2",
+  "authorList": ["Lawillia"],
+  "credits": "Lawillia",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["Forge 1.10.2-12.18.1.2099"]
+ }
+]
