@@ -21,7 +21,7 @@ Lawi's Mini Mods(Minecraft Java Edition ver.1.10.2)
 ### No.01 "Recycle Recipes"  
   
 バニラのツールのリサイクルレシピを追加するmodです。  
-mod別ページは準備中です。  
+<https://github.com/LawilliaJPN/MCJE1.10.2-LawisMiniMods/tree/minimod01rr>  
   
 ### No.02 "Specialized Pickaxes"  
   
