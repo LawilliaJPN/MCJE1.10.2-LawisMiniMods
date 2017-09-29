@@ -1,9 +1,9 @@
-package lawi1001mfm;
+package lawi1001;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
-import lawi1001mfm.recipes.LawisModRecipes;
+import lawi1001.recipes.LawisModRecipes;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;

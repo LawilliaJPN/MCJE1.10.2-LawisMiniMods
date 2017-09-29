@@ -1,4 +1,4 @@
-package lawi1001mfm.recipes;
+package lawi1001.recipes;
 
 public class LawisModRecipes {
 	public LawisModRecipes(){

@@ -1,4 +1,4 @@
-package lawi1001mfm.recipes;
+package lawi1001.recipes;
 
 import net.minecraft.init.Items;
 import net.minecraft.item.ItemStack;
