@@ -31,15 +31,15 @@ Lawi's Mini Mods(Minecraft Java Edition ver.1.10.2)
 ### No.03 "Time Signal Mod"  
   
 チャットで定期的に時間を教えてくれるmodです。  
-mod別ページは準備中です。  
+<https://github.com/LawilliaJPN/MCJE1.10.2-LawisMiniMods/tree/minimod03ts>  
   
 ### No.04 "Nethert Mutation"  
   
 乾燥地帯で夜に敵を倒すとネザーの敵がスポーンするmodです。  
-mod別ページは準備中です。  
+<https://github.com/LawilliaJPN/MCJE1.10.2-LawisMiniMods/tree/minimod04nm>  
   
 ### No.05 "More Poisonous Potato"  
   
 「青くなりすぎたジャガイモ」を追加するmodです。  
-mod別ページは準備中です。  
+<https://github.com/LawilliaJPN/MCJE1.10.2-LawisMiniMods/tree/minimod05mpp>  
   
