@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "lawismod05:items/more_poisonous_potato"
+    }
+}
